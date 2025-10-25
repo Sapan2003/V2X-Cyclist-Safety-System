@@ -68,7 +68,6 @@ V2X-Cyclist-Safety-System/
 ├── reaction_model/ ML model for cyclist reaction
 ├── raspberry_pi/ Real-time communication and control scripts
 ├── results/ Confusion matrices, metrics, plots
-├── docs/ Circuit diagrams, setup guides, architecture images
 └── README.md
 
 ---
