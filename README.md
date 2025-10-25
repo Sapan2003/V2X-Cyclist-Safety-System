@@ -63,12 +63,12 @@ Together, these models form a **real-time, closed-loop V2X communication system*
 
 ## Repository Structure
 V2X-Cyclist-Safety-System/
-├── data/ # Radar, GPS, and IMU datasets
-├── radar_model/ # ML model for risk prediction
-├── reaction_model/ # ML model for cyclist reaction
-├── raspberry_pi/ # Real-time communication and control scripts
-├── results/ # Confusion matrices, metrics, plots
-├── docs/ # Circuit diagrams, setup guides, architecture images
+├── data/ Radar, GPS, and IMU datasets
+├── radar_model/ ML model for risk prediction
+├── reaction_model/ ML model for cyclist reaction
+├── raspberry_pi/ Real-time communication and control scripts
+├── results/ Confusion matrices, metrics, plots
+├── docs/ Circuit diagrams, setup guides, architecture images
 └── README.md
 
 ---
